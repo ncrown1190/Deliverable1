@@ -18,3 +18,8 @@ First, ask the user, “How many sodas have been sold today? 100 in stock” Exp
 
 Now that all of the items have their remaining stock figured out, figure out whether each item needs a restock.  If the remaining stock is less than or equal to the restock value print out which item needs to be restocked. Repeat this process until all items have been checked.
 
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/cb179937-f45e-48e1-b9b0-d29f256e354e">
+
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/4f76dd9a-f273-47c9-8da0-63563a81cab4">
+
+
