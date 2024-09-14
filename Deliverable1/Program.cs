@@ -23,7 +23,7 @@ class Program
         *  Checking stock for Soda
         ******************************/
 
-        Console.Write("How many Sodas have been sold today? " + sodaStock + " are in stock. \n");
+        Console.WriteLine("How many Sodas have been sold today? " + sodaStock + " are in stock. ");
         int sodasSold = int.Parse(Console.ReadLine());
         //Console.WriteLine(sodasSold);
 
@@ -42,7 +42,7 @@ class Program
         *Checking stock for Chips
         ******************************/
 
-        Console.Write("How many Chips packets have been sold today? " + chipsStock + " are in stock. \n");
+        Console.WriteLine("How many Chips packets have been sold today? " + chipsStock + " are in stock. ");
         int chipsSold = int.Parse(Console.ReadLine());
         //Console.WriteLine(chipsSold);
 
@@ -62,7 +62,7 @@ class Program
         *  Checking stock for Candy  *
         ******************************/
 
-        Console.Write("How many Chips packets have been sold today? " + candyStock + " are in stock. \n");
+        Console.WriteLine("How many Chips packets have been sold today? " + candyStock + " are in stock. ");
         int candySold = int.Parse(Console.ReadLine());
         //Console.WriteLine(candySold);
 
