@@ -2,7 +2,7 @@
 
 ### Restock The Store ###
 
-I am using C# to write this program if statement.
+I am using C# to write this program using if statements.
 
 ## Build Specifications ##
 
